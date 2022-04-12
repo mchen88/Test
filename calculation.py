@@ -8,11 +8,11 @@ def addition(x, y):
     return x + y
 
 
-# In[2]:
+# In[6]:
 
 
 def substraction(x, y):
-    pass
+    return x - y
 
 
 # In[3]:
